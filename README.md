@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Front-End React.Js
-- 🌱 React.Js E Python
+- 🌱 React.Js, JavaScript, Git, Postman, Python etc.
 - 😄 Pronouns: ele
 - ⚡ Fun fact: Toco em blocos de Carnaval
 
