@@ -3,7 +3,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falcaogodoy&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falcaogodoy)](https://github.com/falcaogodoy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falcaogodoy&layout=compact)](https://github.com/falcaogodoy/github-readme-stats)
 
 
 
